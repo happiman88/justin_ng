@@ -24,6 +24,7 @@ I am __Justin Ng__, a data analytist enthusiastic and a father of 2. Currently p
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br>
 
 <!-- ABOUT Section Ends -->
 
